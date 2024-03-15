@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "18.19.0",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.12.0"
+    },
+    "version": "1.18.2",
+    "libraryName": "volle-seitenbreite",
+    "libraryId": "bb0c3d75-ff1b-4d14-a263-20b2461913fe",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "volle-seitenbreite",
+    "solutionShortDescription": "volle-seitenbreite description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

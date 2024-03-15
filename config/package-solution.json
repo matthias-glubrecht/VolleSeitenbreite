@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "volle-seitenbreite-client-side-solution",
+    "id": "bb0c3d75-ff1b-4d14-a263-20b2461913fe",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.18.2"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "volle-seitenbreite description"
+      },
+      "longDescription": {
+        "default": "volle-seitenbreite description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "volle-seitenbreite Feature",
+        "description": "The feature that activates elements of the volle-seitenbreite solution.",
+        "id": "9ccc055a-a2ec-40c3-906a-eca484f26b9c",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/volle-seitenbreite.sppkg"
+  }
+}
