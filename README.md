@@ -5,7 +5,7 @@
 This Web Part modifies the max-width CSS property of some container elements on a SharePoint Modern Page, thus allowing to use the full page width of your browser for your content.
 This is not tested for small screens and it only makes sense to use it on screens that are wider than 1024 pixels.
 
-[picture of the solution in action, if possible]
+![Picture of the solution in action](https://github.com/matthias-glubrecht/VolleSeitenbreite/blob/main/Adeles%20Teamsite.png)
 
 ## Used SharePoint Framework Version
 
